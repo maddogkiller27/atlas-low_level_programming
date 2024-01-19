@@ -1,7 +1,7 @@
 #include <stdio>
 
 /**
- *main - entry point
+ *main - types and sizes
  * return: always 0 (success)
  */
 int main(void)
