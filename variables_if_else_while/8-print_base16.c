@@ -11,7 +11,7 @@ int numbr;
 char letter;
 
 for (numbr = 0; numbr < 10; numbr++)
-putchar((num % 10) + '0');
+putchar((numbr % 10) + '0');
 
 for (letter = 'a'; letter <= 'f'; letter++)
 
