@@ -10,7 +10,7 @@ int main(void)
 int numbr;
 
 for (numbr = 0; numbr < 10; numbr++)
-putchar((num % 10) + '0');
+putchar((numbr % 10) + '0');
 
 putchar('\n');
 
