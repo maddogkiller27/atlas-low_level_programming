@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - prints numbers 1-9 but differently
+ * main - prints numbers 1 through 9 but differently
  *
  * Return: Always 0 (Success)
  */
