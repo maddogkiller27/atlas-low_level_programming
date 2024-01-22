@@ -14,6 +14,7 @@ for (numbr = 0; numbr < 10; numbr++)
 putchar((numbr % 10) + '0');
 
 for (letter = 'a'; letter <= 'f'; letter++)
+putchar(letter);
 
 putchar('\n');
 
