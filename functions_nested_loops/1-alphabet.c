@@ -1,16 +1,14 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
- * main - check the code
- *
- * Return: Always 0.
+ * print_alphabet - prints alphabet
  */
-int main(void)
+void print_alphabet(void)
 {
-  char letter;
-  print_alphabet (letter = 'a'; letter <= 'z'; letter++)
-    putchar(letter);
+char letter;
+for (letter = 'a'; letter <= 'z'; letter++)
+putchar(letter);
 
-  putchar('\n');
-  return (0);
+putchar('\n');
+return (0);
 }
