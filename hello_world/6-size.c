@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main -types and sizes
+ * types and sizes
  *
  * return: always 0 (success)
  */
