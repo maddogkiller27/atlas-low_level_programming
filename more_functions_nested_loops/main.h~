@@ -1,0 +1,3 @@
+#ifndef main_h
+int _isupper(int c);
+#ifend
