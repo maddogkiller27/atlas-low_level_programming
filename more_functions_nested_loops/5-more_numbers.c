@@ -12,8 +12,11 @@ int number;
 
 while (loop <=10)
 {
-  for (number = '0'; number <= (14); number++; loop++)
+  for (number = (0); number <= (14); number++)
 _putchar(number);
 }
+ {
+   for (loop = (1); loop++);
+ }
 _putchar('\n');
 }
