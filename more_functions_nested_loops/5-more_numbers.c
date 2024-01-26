@@ -7,12 +7,12 @@
 
 void more_numbers(void)
 {
-int loop = (++0);
+int loop;
 int number;
 
 while (loop <=10)
 {
-for (number = '0'; number <= (14); number++)
+  for (number = '0'; number <= (14); number++; loop++)
 _putchar(number);
 }
 _putchar('\n');
