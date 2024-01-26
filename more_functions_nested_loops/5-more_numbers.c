@@ -7,7 +7,7 @@
 
 void more_numbers(void)
 {
-int loop = '1';
+int loop = ++0;
 int number;
 
 while (loop <=10)
@@ -15,6 +15,5 @@ while (loop <=10)
 for (number = '0'; number <= (14); number++)
 _putchar(number);
 }
-int loop = ++;
 _putchar('\n');
 }
