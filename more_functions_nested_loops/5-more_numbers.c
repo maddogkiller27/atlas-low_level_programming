@@ -16,7 +16,7 @@ while (loop <=10)
 _putchar(number);
 }
  {
-   for (loop = (1); loop++);
+   for (loop = (1); loop <= (10); loop++);
  }
 _putchar('\n');
 }
