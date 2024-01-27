@@ -10,7 +10,7 @@ void more_numbers(void)
 int loop;
 int number;
 
-{
+
 for (loop = 0; loop <= 9; loop++)
      
 {
@@ -20,7 +20,6 @@ if (number > 9)
 _putchar((number / 10) + '0');
 _putchar((number % 10) + '0');
 }
-}
-_putchar('\n');
+ _putchar('\n');
 }
 }
