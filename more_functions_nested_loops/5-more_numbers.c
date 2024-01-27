@@ -15,7 +15,7 @@ for (loop = '0'; loop <= '9'; loop++)
      
 {
 for (number = 0; number <= 14; number++)
-_putchar(number);
+  _putchar("%d", number);
 }
 
 _putchar('\n');
